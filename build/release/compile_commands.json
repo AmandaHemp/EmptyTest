@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/lucas/OneDrive/Documents/Sistemas microcontrolados - Amanda/GitHub/EmptyTest/build/release",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -I\"C:/Users/lucas/OneDrive/Documents/Sistemas microcontrolados - Amanda/GitHub/EmptyTest/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -O3 -DNDEBUG -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g0 -o CMakeFiles\\EmptyTest.dir\\Src\\main.c.obj -c \"C:\\Users\\lucas\\OneDrive\\Documents\\Sistemas microcontrolados - Amanda\\GitHub\\EmptyTest\\Src\\main.c\"",
+  "file": "C:\\Users\\lucas\\OneDrive\\Documents\\Sistemas microcontrolados - Amanda\\GitHub\\EmptyTest\\Src\\main.c",
+  "output": "CMakeFiles\\EmptyTest.dir\\Src\\main.c.obj"
+},
+{
+  "directory": "C:/Users/lucas/OneDrive/Documents/Sistemas microcontrolados - Amanda/GitHub/EmptyTest/build/release",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -I\"C:/Users/lucas/OneDrive/Documents/Sistemas microcontrolados - Amanda/GitHub/EmptyTest/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -O3 -DNDEBUG -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g0 -o CMakeFiles\\EmptyTest.dir\\Src\\syscall.c.obj -c \"C:\\Users\\lucas\\OneDrive\\Documents\\Sistemas microcontrolados - Amanda\\GitHub\\EmptyTest\\Src\\syscall.c\"",
+  "file": "C:\\Users\\lucas\\OneDrive\\Documents\\Sistemas microcontrolados - Amanda\\GitHub\\EmptyTest\\Src\\syscall.c",
+  "output": "CMakeFiles\\EmptyTest.dir\\Src\\syscall.c.obj"
+},
+{
+  "directory": "C:/Users/lucas/OneDrive/Documents/Sistemas microcontrolados - Amanda/GitHub/EmptyTest/build/release",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -I\"C:/Users/lucas/OneDrive/Documents/Sistemas microcontrolados - Amanda/GitHub/EmptyTest/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -O3 -DNDEBUG -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g0 -o CMakeFiles\\EmptyTest.dir\\Src\\sysmem.c.obj -c \"C:\\Users\\lucas\\OneDrive\\Documents\\Sistemas microcontrolados - Amanda\\GitHub\\EmptyTest\\Src\\sysmem.c\"",
+  "file": "C:\\Users\\lucas\\OneDrive\\Documents\\Sistemas microcontrolados - Amanda\\GitHub\\EmptyTest\\Src\\sysmem.c",
+  "output": "CMakeFiles\\EmptyTest.dir\\Src\\sysmem.c.obj"
+},
+{
+  "directory": "C:/Users/lucas/OneDrive/Documents/Sistemas microcontrolados - Amanda/GitHub/EmptyTest/build/release",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -I\"C:/Users/lucas/OneDrive/Documents/Sistemas microcontrolados - Amanda/GitHub/EmptyTest\" -O3 -DNDEBUG -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -x assembler-with-cpp -MMD -MP -Og -g0 -o CMakeFiles\\EmptyTest.dir\\Startup\\startup_stm32f411ceux.s.obj -c \"C:\\Users\\lucas\\OneDrive\\Documents\\Sistemas microcontrolados - Amanda\\GitHub\\EmptyTest\\Startup\\startup_stm32f411ceux.s\"",
+  "file": "C:\\Users\\lucas\\OneDrive\\Documents\\Sistemas microcontrolados - Amanda\\GitHub\\EmptyTest\\Startup\\startup_stm32f411ceux.s",
+  "output": "CMakeFiles\\EmptyTest.dir\\Startup\\startup_stm32f411ceux.s.obj"
+}
+]
